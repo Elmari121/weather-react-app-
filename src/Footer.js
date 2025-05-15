@@ -6,7 +6,7 @@ const Footer = () => {
       <p>
         View this project on {' '}
         <a
-          href="https://github.com/Elmari121/weather-react"
+          href="https://github.com/Elmari121/weather-react-app-"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 hover:underline"
